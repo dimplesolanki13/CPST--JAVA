@@ -1,4 +1,4 @@
-public class prog4 {
+public class Prog4 {
     public static void main(String agrs[]){
 
     String x = "32";

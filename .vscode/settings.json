@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "CSPT-170726",
+        "CPST-180726"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
